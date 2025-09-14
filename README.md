@@ -1,4 +1,4 @@
-# 👻 Hello everyone! #
+## 👻 Hello everyone!
 
 I'm Yoann (but everyone calls me Domi for some reasons), i'm currently and computer science student based in Paris.
 
