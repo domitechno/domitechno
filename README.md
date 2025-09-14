@@ -1,4 +1,5 @@
-# 👻 Hello everyone! [Aller à Hello](#-hello-everyone)
+<a id="hello"></a>
+<span style="font-size:22px; font-weight:bold;">👻 Hello everyone!</span>
 
 I'm Yoann (but everyone calls me Domi for some reasons), i'm currently and computer science student based in Paris.
 
